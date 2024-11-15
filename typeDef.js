@@ -14,8 +14,4 @@ export const typeDefs = `
         authors : [Author]
         books: [Book]
     }
-
-    type Mutation {
-    
-    }
 `;
